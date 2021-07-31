@@ -22,7 +22,7 @@ void Beeper(Sound &sound)
 }
 void JokeWindow()
 {
-     MessageBox(0,"Caiu na vila, o peixe fuzila", "Se fudeu, F", MB_ICONWARNING);
+     MessageBox(0,"Seu computador será desligado em 10 segundos...", "Sinto muito!", MB_ICONWARNING);
 }
 
 void CrazyMouse(Mouse &MouseCoord)
